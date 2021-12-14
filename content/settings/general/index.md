@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "myLernblog"
+title = "mi lernblog"
 description = "A Journey of Life and Learning"
-footerLeft = "Made with ❤️ in Köniz"
-footerRight = "milernblog.netlify.app - this is fusszeile rechts (optional)"
+footerLeft = "made with ❤️ in köniz"
+footerRight = "[milernblog.netlify.app](milernblog.netlify.app) (fusszeile rechts, optional)"
 +++
