@@ -1,8 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
+icon = ""
 logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+image = "/media/picture_oak_koeniz.jpg"
 color = "#3d6a7f"
 +++
-
