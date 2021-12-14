@@ -4,7 +4,7 @@ date = "2021-12-01"
 draft = false
 pinned = false
 tags = ["example", "lernblog", "test"]
-image = "/img/default-image.jpg"
+image = "picture_oak_koeniz_small_header_smaller.jpg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
