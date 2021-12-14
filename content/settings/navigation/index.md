@@ -2,14 +2,14 @@
 headless = true
 
 [[link]]
-title = "Home"
+title = "startsitta"
 url = "/"
 
 [[link]]
-title = "About me"
+title = "über mier"
 url = "/about/"
 
 [[link]]
-title = "A nüi sitta"
+title = "a nüi sitta"
 url = "/a-nui-sitta/"
 +++
