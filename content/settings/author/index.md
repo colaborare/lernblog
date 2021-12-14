@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "lebenslang lernender"
-image = ""
+image = "/media/icon1_mini.png"
 email = ""
 +++
