@@ -1,5 +1,5 @@
 +++
-title = "Padlet zu Agile, Lean and New Work Inspirations"
+title = "Padlet zu ALNW"
 draft = false
 description = "In meinem Alltag treffe ich immer wieder auf inspirierende Inhalte ... \nSeit einigen Monaten sammle ich Inspirationen, welche im Themenkomplex \"Agile, Lean und New Work\" zu verorten sind, mit Hilfe eines Padlets. "
 +++
