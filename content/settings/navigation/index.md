@@ -15,5 +15,5 @@ url = "/a-nui-sitta/"
 
 [[link]]
 title = "Padlet zu ALNW"
-url = "/padlet-alnw"
+url = "/padlet-zu-alnw"
 +++
