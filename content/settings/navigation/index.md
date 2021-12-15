@@ -12,4 +12,8 @@ url = "/about/"
 [[link]]
 title = "a nüi sitta"
 url = "/a-nui-sitta/"
+
+[[link]]
+title = "Padlet zu ALNW"
+url = "/padlet-alnw"
 +++
